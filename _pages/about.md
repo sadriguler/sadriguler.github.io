@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic_sadri.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: # address for ex as below
+  #  <p> aaaaa 555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 ---
+I read, watch, travel, run, bike, take photographs, and dance. In the meantime, I try to learn. If somehow I manage to learn or create something new, then there is a pretty good chance that you will find it out in this website.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+For the ones interested with my career, you can take a look in the CV.  For the rest, I will sporadically share some of my writings in the blog. Maybe, I will add some of my favorite photographs which I have been taking over the years. For now, I do not know how much technical writings you will find other than my publication list, because I easily get bored when I try to write technical documents (shhh, please don't tell anyone).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dear visitor, I hope you will be able to find something worth your time. If you can not, please do not hesitate to move forward to a new sea in the (almost) infinite waters of the internet ocean. Welcome!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+PS. This is a bilingual website with Turkish and English, which I do not guarantee that you can find all the content in both languages. In case of you are interested with a translation, please do not hesitate to ask for it and I will do my best.
+
+
