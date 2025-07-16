@@ -226,10 +226,12 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - _news
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
   - _posts/
+  - _projects/
   - purgecss.config.js
   - README.md
   - readme_preview/
