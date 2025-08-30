@@ -63,6 +63,9 @@ jobs:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
+      # PASTE THE NEW STEP HERE 👇
+      - name: Install ImageMagick 🔧
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Checkout 🛎️
         uses: actions/checkout@v4
       - name: Setup Ruby
@@ -77,6 +80,7 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
