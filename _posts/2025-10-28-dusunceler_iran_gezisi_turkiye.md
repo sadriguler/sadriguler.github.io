@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Düşünceler-I Türkiye üzerine karalamalar - İran
-date: 2025-10-28 00:30:00-040
-description: this is what included images could look like
+date: 2025-10-28 20:25:00-040
+description: 
 tags: düşünceler iran
 categories: denemeler
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/iran_desert.JPG
 ---
 
 Dört yıl öncesiydi; Tahran'a oldukça, belki de hayatımın en gürültülü uçak yolcuklarından birinden sonra gecenin bir yarısı inmişim. Yanımda liseden arkadaşım Aslı var. Alfabesini bilmediğim, yerel para birimine Tahran'a inmeden önce ulaşamadığım, kadınların sosyal hayatının kısıtlandığı, yıllardır süregelen ambargolarla dış dünyaya kapalı bu Orta Doğu ülkesine yanımda bir kadınla gitmenin gerginliği ve önümüzdeki günlerin nasıl geçeceği endişesiyle havalimanında güvenlik kontrolünden geçer geçmez kendimi bir köşeye atıyorum. Önce yanımıza aldığımız nakit dolarları tümene çevirmemiz, daha sonra taksi bulmamız, en son da daha önceden planladığımız hotele ulaşmamız gerekiyor; bunları yaparken de dolandırılmamayı başarmalıyız. 
