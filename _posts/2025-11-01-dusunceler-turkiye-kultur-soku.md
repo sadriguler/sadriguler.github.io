@@ -8,7 +8,7 @@ categories: denemeler
 thumbnail: assets/img/istanbul_tarihi_yarimada.jpg
 ---
 
-<p style="text-align: right;"> Şubat 2025 </p>
+<p style="text-align: right;"> Şubat 2024 </p>
 
 İran gezisinden bu yana iki yıl kadar, üç buçuk yıl Kopenhag'ta yaşadıktan sonra doğduğum büyüdüğüm şehre döneli de yaklaşık altı hafta geçti. Kopenhag'a ilk gidişimde yaşadığım kültür şokunun tersini bu sefer geri döndüğümde yaşadım. Geçiş bu kadar sert olunca da döndüğümden beridir yaşadığım ve deneyimlediğim her şeyi; kendi kişisel çevremi, toplumun dinamiklerini, toplumsal hayatın yürütücü ve düzenleyicisi olarak da devletle ilişkilerime dair ister istemez birçok karşılaştırma yaptım. 
 
